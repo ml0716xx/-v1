@@ -1,0 +1,5 @@
+{
+  "name": "青海项目-设备管理（园区、电站、充电站）",
+  "description": "A high-end industrial device management dashboard for microgrids, supporting device binding from a global pool to specific sites, monitoring, and lifecycle management.",
+  "requestFramePermissions": []
+}
